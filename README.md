@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Nathan Tieu! <br/><a href="https://www.linkedin.com/in/nathantieu1013142/">Cybersecurity Professional</a></h1>
 
-<!--
-**ntieu4328/ntieu4328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>:desktop_computer:Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Creating Honeypots</b>:honeybee:
+  - [Tpot using AWS]()
+  - [Cowrie]()
+- <b>SQL</b>
+  - [The SQL Murder Mystery]()
+<h2>:page_facing_up:Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [CompTIA Security+](https://imgur.com/yPRzNGx)
+- [CompTIA A+](https://imgur.com/giddXjG)
+- [Google Cybersecurity Certificate](https://imgur.com/n4ZjRww)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ntieu4328 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ntieu4328 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[Personal Website](https://nathantieu.my.canva.site/)
+
+[instagram]: https://www.instagram.com/n8n_tieu/
+[linkedin]: https://www.linkedin.com/in/nathantieu1013142/
