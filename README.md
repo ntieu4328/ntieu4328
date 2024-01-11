@@ -3,8 +3,8 @@
 <h2>:desktop_computer:Cybersecurity Projects:</h2>
 
 - <b>Creating Honeypots</b>:honeybee:
-  - [Tpot using AWS]()
-  - [Cowrie]()
+  - [Tpot]()
+  - [Cowrie](https://github.com/ntieu4328/Cowrie)
 - <b>SQL</b>
   - [The SQL Murder Mystery]()
 <h2>:page_facing_up:Certifications:</h2>
