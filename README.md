@@ -2,11 +2,15 @@
 
 <h2>:desktop_computer:Cybersecurity Projects:</h2>
 
-- <b>Creating Honeypots</b>:honeybee:
+- <b>Honeypots</b>:honeybee:
   - [Tpot]()
   - [Cowrie](https://github.com/ntieu4328/Cowrie)
 - <b>SQL</b>
   - [The SQL Murder Mystery]()
+- <b>AWS</b>
+  - [AWS EC2 Server](https://github.com/ntieu4328/AWS-EC2-Server)
+- <b>Home Lab</b>
+  - [Virtual Box Kali Linux]()
 <h2>:page_facing_up:Certifications:</h2>
 
 - [CompTIA Security+](https://imgur.com/yPRzNGx)
