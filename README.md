@@ -10,7 +10,7 @@
 - <b>AWS</b>
   - [AWS EC2 Server](https://github.com/ntieu4328/AWS-EC2-Server)
 - <b>Home Lab</b>
-  - [VirtualBox Kali Linux]()
+  - [VirtualBox Kali Linux](https://github.com/ntieu4328/Virtual-Box-Kali-Linux)
 <h2>:page_facing_up:Certifications:</h2>
 
 - [CompTIA Security+](https://imgur.com/yPRzNGx)
