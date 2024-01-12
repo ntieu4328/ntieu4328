@@ -6,7 +6,7 @@
   - [Tpot]()
   - [Cowrie](https://github.com/ntieu4328/Cowrie)
 - <b>SQL</b>
-  - [The SQL Murder Mystery]()
+  - [The SQL Murder Mystery](https://github.com/ntieu4328/SQL-Murder-Mystery)
 - <b>AWS</b>
   - [AWS EC2 Server](https://github.com/ntieu4328/AWS-EC2-Server)
 - <b>Home Lab</b>
