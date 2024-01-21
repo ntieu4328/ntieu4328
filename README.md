@@ -2,6 +2,10 @@
 
 <h2>:desktop_computer:Cybersecurity Projects:</h2>
 
+- <b>Penetration Testing:</b>
+  - Metasploitable 2:
+    - [Metasploitable 2 Setup](https://github.com/ntieu4328/Metasploitable-2-Setup-)
+    - [Metasploitable 2 ](https://github.com/ntieu4328/Metasploitable-2-Website-Hacking)
 - <b>Honeypots</b>:honeybee:
   - [Tpot](https://github.com/ntieu4328/Tpot)
   - [Cowrie](https://github.com/ntieu4328/Cowrie)
