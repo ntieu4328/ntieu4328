@@ -7,6 +7,7 @@
     - [Metasploitable 2 Setup](https://github.com/ntieu4328/Metasploitable-2-Setup-)
     - [Metasploitable 2 Enumeration](https://github.com/ntieu4328/Metasploit-2-Enumeration)
     - [Metasploitable 2 Website Hacking](https://github.com/ntieu4328/Metasploitable-2-Website-Hacking)
+    - [Metasploitable 2 SMTP Hacking](https://github.com/ntieu4328/Metasploitable-2-SMTP-Hacking)
 - <b>Honeypots</b>:honeybee:
   - [Tpot](https://github.com/ntieu4328/Tpot)
   - [Cowrie](https://github.com/ntieu4328/Cowrie)
