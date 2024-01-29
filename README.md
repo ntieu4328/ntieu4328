@@ -3,6 +3,7 @@
 <h2>:desktop_computer:Cybersecurity Projects:</h2>
 
 - <b>SOC Analyst Automation:</b>
+  - [SOC Analyst Automation Overview](https://github.com/ntieu4328/SOC-Analyst-Automation-Overview)
   - [SOC Analyst Automation Setup](https://github.com/ntieu4328/SOC-Analyst-Automation-Setup)
   - [SOC Analyst Automation Incident Response](https://github.com/ntieu4328/SOC-Analyst-Automation-Incident-Response)
 - <b>Penetration Testing:</b>
