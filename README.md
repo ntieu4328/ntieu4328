@@ -12,10 +12,9 @@
     - [Metasploitable 2 Enumeration](https://github.com/ntieu4328/Metasploit-2-Enumeration)
     - [Metasploitable 2 Website Hacking](https://github.com/ntieu4328/Metasploitable-2-Website-Hacking)
     - [Metasploitable 2 SMTP Hacking](https://github.com/ntieu4328/Metasploitable-2-SMTP-Hacking)
-- <b>Python Keylogger:</b>
-
-  IMPORTANT: This project is only for educational purposes
-  - [Python Keylogger](https://github.com/ntieu4328/Python-Keylogger)
+- <b>Python:</b>
+  - [Python Keylogger](https://github.com/ntieu4328/Python-Keylogger) IMPORTANT: This project is only for educational purposes
+  - [Python Port Scanner](https://github.com/ntieu4328/Python-Port-Scanner)
 - <b>Honeypots</b>:honeybee:
   - [Tpot](https://github.com/ntieu4328/Tpot)
   - [Cowrie](https://github.com/ntieu4328/Cowrie)
