@@ -26,7 +26,7 @@
   - [AWS EC2 Server](https://github.com/ntieu4328/AWS-EC2-Server)
 - <b>Home Lab</b>
   - [VirtualBox Kali Linux](https://github.com/ntieu4328/Virtual-Box-Kali-Linux)
-  - TryHackMe
+  - [TryHackMe](https://github.com/ntieu4328/TryHackMe)
 <h2>:page_facing_up:Certifications:</h2>
 
 - [CompTIA CySA+](https://imgur.com/wcUPD1q)
