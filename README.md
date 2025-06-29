@@ -1,6 +1,6 @@
-<h1>Hi, I'm Nathan Tieu! <br/><a href="https://www.linkedin.com/in/nathantieu1013142/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Nathan Tieu! <br/><a href="https://www.linkedin.com/in/nathantieu1013142/">IT/Cybersecurity Professional</a></h1>
 
-<h2>:desktop_computer:Cybersecurity Projects:</h2>
+<h2>:desktop_computer:IT/Cybersecurity Projects:</h2>
 
 - <b>SOC Analyst Automation:</b>
   - [SOC Analyst Automation Overview](https://github.com/ntieu4328/SOC-Analyst-Automation-Overview)
