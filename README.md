@@ -19,7 +19,7 @@
   - [Tpot](https://github.com/ntieu4328/Tpot)
   - [Cowrie](https://github.com/ntieu4328/Cowrie)
 - <b>[Login and Signup page with PHP and MySQL](https://github.com/ntieu4328/Login-and-Signup-page-with-PHP-and-MySQL)</b>
-- <b>[SQL](https://github.com/ntieu4328/SQL-Murder-Mystery)</b>
+- <b>[SQL Murder Mystery Walkthrough](https://github.com/ntieu4328/SQL-Murder-Mystery)</b>
 - <b>[AWS EC2 Server](https://github.com/ntieu4328/AWS-EC2-Server)</b>
 - <b>Cybersecurity Learning Journal</b>
 - <b>Home Lab</b>
