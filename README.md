@@ -1,5 +1,7 @@
 <h1>Hi, I'm Nathan Tieu! <br/><a href="https://www.linkedin.com/in/nathantieu1013142/">IT/Cybersecurity Professional</a></h1>
 
+<b>[Cybersecurity Learning Journal](https://github.com/ntieu4328/Cybersecurity-Learning-Journal)</b>
+
 <h2>:desktop_computer:IT/Cybersecurity Projects:</h2>
 
 - <b>SOC Analyst Automation:</b>
@@ -21,7 +23,6 @@
 - <b>[Login and Signup page with PHP and MySQL](https://github.com/ntieu4328/Login-and-Signup-page-with-PHP-and-MySQL)</b>
 - <b>[SQL Murder Mystery Walkthrough](https://github.com/ntieu4328/SQL-Murder-Mystery)</b>
 - <b>[AWS EC2 Server](https://github.com/ntieu4328/AWS-EC2-Server)</b>
-- <b>[Cybersecurity Learning Journal](https://github.com/ntieu4328/Cybersecurity-Learning-Journal)</b>
 - <b>Home Lab</b>
   - [VirtualBox Kali Linux](https://github.com/ntieu4328/Virtual-Box-Kali-Linux)
   - [TryHackMe](https://github.com/ntieu4328/TryHackMe)
